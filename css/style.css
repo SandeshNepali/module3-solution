@@ -1,0 +1,23 @@
+body {
+    padding-top: 50px;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.tall-section {
+    height: 1000px;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+header h1 {
+    margin-top: 20px;
+    font-size: 2.5em;
+}
+
+.navbar-nav {
+    background-color: #fff;
+    width: 100%;
+}
